@@ -6,9 +6,9 @@ A modern full-stack web application where users can **enter golf scores, support
 
 ## 🚀 Live Demo
 
-- 🌐 Website: [https://your-project.vercel.app  ](https://golf-charity-app-ten.vercel.app/)
-- 👤 Dashboard: [https://your-project.vercel.app/dashboard  ](https://golf-charity-app-ten.vercel.app/dashboard)
-- 🛠 Admin Panel: [https://your-project.vercel.app/admin](https://golf-charity-app-ten.vercel.app/admin)  
+- 🌐 Website: https://golf-charity-app-ten.vercel.app/
+- 👤 Dashboard: https://golf-charity-app-ten.vercel.app/dashboard
+- 🛠 Admin Panel: https://golf-charity-app-ten.vercel.app/admin 
 
 ---
 
@@ -58,6 +58,8 @@ A modern full-stack web application where users can **enter golf scores, support
 
 ## 🛠 Tech Stack
 
+- **Type:** Full-Stack Web Application  
 - **Frontend:** Next.js (App Router), React, Tailwind CSS  
-- **Backend:** Supabase (PostgreSQL, Auth)  
-- **Deployment:** Vercel 
+- **Backend & Database:** Supabase (PostgreSQL, Authentication, Realtime APIs)  
+- **Deployment & Hosting:** Vercel  
+- **Architecture:** Serverless  
