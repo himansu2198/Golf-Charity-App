@@ -6,9 +6,9 @@ A modern full-stack web application where users can **enter golf scores, support
 
 ## 🚀 Live Demo
 
-- 🌐 Website: https://your-project.vercel.app  
-- 👤 Dashboard: https://your-project.vercel.app/dashboard  
-- 🛠 Admin Panel: https://your-project.vercel.app/admin  
+- 🌐 Website: [https://your-project.vercel.app  ](https://golf-charity-app-ten.vercel.app/)
+- 👤 Dashboard: [https://your-project.vercel.app/dashboard  ](https://golf-charity-app-ten.vercel.app/dashboard)
+- 🛠 Admin Panel: [https://your-project.vercel.app/admin](https://golf-charity-app-ten.vercel.app/admin)  
 
 ---
 
