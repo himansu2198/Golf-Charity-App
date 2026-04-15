@@ -1,6 +1,6 @@
 # ⛳ Golf Charity Platform
 
-A modern full-stack web application where users can **enter golf scores, support charities, and win prizes through weekly draws**.
+A modern full-stack web application where users can **enter golf scores, support charities and win prizes through weekly draws**.
 
 ---
 
